@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfBonusCalculationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BonusCalculationData>
+    <TestName>Без фильтров</TestName>
+    <Branch>[00] Головная компания</Branch>
+    <Programm>ДВ по ОПО</Programm>
+    <BeneficiaryCode>0000111111</BeneficiaryCode>
+    <Beneficiary>Какой-то получатель</Beneficiary>
+    <RegistryResult>
+      <RegistryLine>
+        <NumDog>1110100397205</NumDog>
+        <DateDog>15.02.2017</DateDog>
+        <Division>Головная компания</Division>
+        <NSICode>11111</NSICode>
+        <Strah>Какая-то организация"</Strah>
+        <SaleChannel>Какие-то продажи</SaleChannel>
+        <VidSatrah>@</VidSatrah>
+        <StrSumm>10000000.00</StrSumm>
+        <PlatehzDoc>975</PlatehzDoc>
+        <Vznos>79000.00</Vznos>
+        <DataVznosa>16.02.2017</DataVznosa>
+        <KV>10.00</KV>
+        <MaxKV>10.00</MaxKV>
+        <Stavka>6.00</Stavka>
+        <Summ>4740.00</Summ>
+      </RegistryLine>
+      <RegistryLine>
+        <NumDog>1110100397204</NumDog>
+        <DateDog>15.02.2017</DateDog>
+        <Division>Головная компания</Division>
+        <NSICode>11111</NSICode>
+        <Strah>Какая-то организация</Strah>
+        <SaleChannel>Какие-то продажи</SaleChannel>
+        <VidSatrah>@</VidSatrah>
+        <StrSumm>10000000.00</StrSumm>
+        <PlatehzDoc>976</PlatehzDoc>
+        <Vznos>79000.00</Vznos>
+        <DataVznosa>16.02.2017</DataVznosa>
+        <KV>10.00</KV>
+        <MaxKV>10.00</MaxKV>
+        <Stavka>6.00</Stavka>
+        <Summ>4740.00</Summ>
+      </RegistryLine>
+      <RegistryLine>
+        <NumDog>1110100397202</NumDog>
+        <DateDog>15.02.2017</DateDog>
+        <Division>Головная компания</Division>
+        <NSICode>Ю_7724073013.00000</NSICode>
+        <NSICode>11111</NSICode>
+        <Strah>Какая-то организация</Strah>
+        <SaleChannel>Какие-то продажи</SaleChannel>
+        <StrSumm>10000000.00</StrSumm>
+        <PlatehzDoc>974</PlatehzDoc>
+        <Vznos>79000.00</Vznos>
+        <DataVznosa>01.04.2017</DataVznosa>
+        <KV>10.00</KV>
+        <MaxKV>10.00</MaxKV>
+        <Stavka>6.00</Stavka>
+        <Summ>4740.00</Summ>
+      </RegistryLine>
+      <RegistryLine>
+        <NumDog>1110100397052</NumDog>
+        <DateDog>13.02.2017</DateDog>
+        <Division>Головная компания</Division>
+        <NSICode>11111</NSICode>
+        <Strah>Какая-то организация</Strah>
+        <SaleChannel>Какие-то продажи</SaleChannel>
+        <VidSatrah>@</VidSatrah>
+        <StrSumm>10000000.00</StrSumm>
+        <PlatehzDoc>50</PlatehzDoc>
+        <Vznos>10000.00</Vznos>
+        <DataVznosa>10.02.2017</DataVznosa>
+        <KV>5.00</KV>
+        <MaxKV>5.00</MaxKV>
+        <Stavka>5.00</Stavka>
+        <Summ>500.00</Summ>
+      </RegistryLine>
+      <RegistryLine>
+        <NumDog>1110101451242</NumDog>
+        <DateDog>18.01.2017</DateDog>
+        <Division>Головная компания</Division>
+        <NSICode>11111</NSICode>
+        <Strah>Какая-то организация</Strah>
+        <SaleChannel>Какие-то продажи</SaleChannel>
+        <VidSatrah>@</VidSatrah>
+        <StrSumm>10000000.00</StrSumm>
+        <PlatehzDoc>2</PlatehzDoc>
+        <Vznos>3000.00</Vznos>
+        <DataVznosa>17.01.2017</DataVznosa>
+        <KV>10.00</KV>
+        <MaxKV>10.00</MaxKV>
+        <Stavka>4.00</Stavka>
+        <Summ>120.00</Summ>
+      </RegistryLine>
+	  <RegistryLine>
+        <NumDog>1110101451239</NumDog>
+        <DateDog>18.01.2017</DateDog>
+        <Division>Головная компания</Division>
+        <NSICode>11111</NSICode>
+        <Strah>Какая-то организация"</Strah>
+        <SaleChannel>Какие-то продажи</SaleChannel>
+        <StrSumm>10000000.00</StrSumm>
+        <PlatehzDoc>2</PlatehzDoc>
+        <Vznos>2000.00</Vznos>
+        <DataVznosa>17.01.2017</DataVznosa>
+        <KV>10.00</KV>
+        <MaxKV>10.00</MaxKV>
+        <Stavka>1.00</Stavka>
+        <Summ>20.00</Summ>
+      </RegistryLine>
+    </RegistryResult>
+  </BonusCalculationData>
+  </ArrayOfBonusCalculationData>
