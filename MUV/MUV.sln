@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MUV", "MUV.csproj", "{7336E4B8-8F5A-4EBB-B696-4964470DD268}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MUVWeb", "..\MUVWeb\MUVWeb.csproj", "{216D0D0F-D3B4-4DAD-B2B5-F5F06D2F3AF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7336E4B8-8F5A-4EBB-B696-4964470DD268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7336E4B8-8F5A-4EBB-B696-4964470DD268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7336E4B8-8F5A-4EBB-B696-4964470DD268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7336E4B8-8F5A-4EBB-B696-4964470DD268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{216D0D0F-D3B4-4DAD-B2B5-F5F06D2F3AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{216D0D0F-D3B4-4DAD-B2B5-F5F06D2F3AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{216D0D0F-D3B4-4DAD-B2B5-F5F06D2F3AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{216D0D0F-D3B4-4DAD-B2B5-F5F06D2F3AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

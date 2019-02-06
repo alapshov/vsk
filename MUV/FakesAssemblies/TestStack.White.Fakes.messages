@@ -1,0 +1,214 @@
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.Bricks.DelegateInvoker: type is sealed.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.Configuration.ConfigurationExtensions: type is sealed.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.Configuration.WhiteDefaultLogger: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.Drawing.ScreenRectangle: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.Drawing.FrameRectangle: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.InputDevices.Input64: type is a value type.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.InputDevices.SystemMetric: type is a value type.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.AutomationElementSearch.ElementSearchResult: type has no family visible contructors.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.CacheMode: type is a value type.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.Configuration.CoreAppXmlConfiguration: type has no family visible contructors.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.Configuration.UIItemIdAppXmlConfiguration: type has no family visible contructors.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.Constants: type is sealed.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.Debug: type is sealed.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.Desktop: type has no family visible contructors.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.Drawing.DrawingPointX: type is sealed.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.Factory.ToolTipFinder: type is sealed.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.Factory.UIItemProxyFactory: type is sealed.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.Factory.WindowFactory: type has no family visible contructors.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.Factory.InitializeOption: type has no family visible contructors.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.Finder.CachedUIItems: type has no family visible contructors.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.InputDevices.AttachedKeyboard: type has no family visible contructors.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.InputDevices.AttachedMouse: type has no family visible contructors.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.InputDevices.Keyboard: type has no family visible contructors.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.InputDevices.Mouse: type has no family visible contructors.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.InputDevices.MouseIcon: type is a value type.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.SystemExtensions.DoubleX: type is sealed.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.SystemExtensions.TypeExtensions: type is sealed.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIA.AutomationElementCollectionX: type is sealed.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIA.AutomationElementX: type is sealed.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIA.WindowsPointX: type is sealed.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIA.RectX: type is sealed.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIItems.UIItemExtensions: type is sealed.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIItems.Custom.CustomUIItemType: type is a value type.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIItems.Finders.SearchCondition: method System.String TestStack.White.UIItems.Finders.SearchCondition.ToString(System.String operation) unstubbable: method is abstract and could not be stubbed, method signature type is non-visible to exported or assembly(TestStack.White.Fakes) or subtype(SearchCondition in assembly TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIItems.Finders.OrSearchCondition: method System.String TestStack.White.UIItems.Finders.SearchCondition.ToString(System.String operation) unstubbable: method is abstract and could not be stubbed, method signature type is non-visible to exported or assembly(TestStack.White.Fakes) or subtype(OrSearchCondition in assembly TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIItems.Finders.SearchConditionFactory: type is sealed.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIItems.Finders.SimpleSearchCondition: method System.String TestStack.White.UIItems.Finders.SearchCondition.ToString(System.String operation) unstubbable: method is abstract and could not be stubbed, method signature type is non-visible to exported or assembly(TestStack.White.Fakes) or subtype(SimpleSearchCondition in assembly TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIItems.Finders.TestControlTypeX: type is sealed.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIItems.Scrolling.DefaultScrollBarButtonAutomationIds: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIItems.Scrolling.SilverlightHScrollBarButtonAutomationIds: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIItems.Scrolling.SilverlightVScrollBarButtonAutomationIds: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIItems.DateUnit: type is a value type.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIItems.WindowsFrameworkExtensions: type is sealed.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIItems.WPFUIItems.WPFUIItem: type is sealed.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.Utility.MethodNameResolver: type is sealed.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.Utility.PropertyResolver: type is sealed.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.Utility.Retry: type is sealed.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.WindowsAPI.ThirtyTwoBitInput: type is a value type.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.WindowsAPI.WindowPlacement: type is a value type.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.WindowsAPI.WindowInfo: type is a value type.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.WindowsAPI.MouseInput: type is a value type.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.WindowsAPI.KeyboardInput: type is a value type.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.WindowsAPI.HardwareInput: type is a value type.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.WindowsAPI.CursorInfo: type is a value type.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.WindowsAPI.POINT: type is a value type.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.WindowsAPI.COLORREF: type is a value type.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.Mappings.ControlDictionary: type has no family visible contructors.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIItemEvents.ListViewEvent: type has no family visible contructors.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIItems.Actions.VoidDelegate: type is sealed.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIItems.Actions.ActionType: type is a value type.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIItems.Container.CachedContainerItemFactory: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIItems.Finders.IndexCondition: method System.String TestStack.White.UIItems.Finders.SearchCondition.ToString(System.String operation) unstubbable: method is abstract and could not be stubbed, method signature type is non-visible to exported or assembly(TestStack.White.Fakes) or subtype(IndexCondition in assembly TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIItems.Finders.NotCondition: method System.String TestStack.White.UIItems.Finders.SearchCondition.ToString(System.String operation) unstubbable: method is abstract and could not be stubbed, method signature type is non-visible to exported or assembly(TestStack.White.Fakes) or subtype(NotCondition in assembly TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIItems.Finders.SearchCriteria: type has no family visible contructors.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIItems.ListViewItems.SuggestionListView: type is sealed.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIItems.Container.NonCachedContainerItemFactory: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIItems.Scrolling.ScrollerFactory: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIItems.WindowItems.WinFormWindow: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIItems.SplashWindow: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIItems.TooltipSafeMouse: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIItems.TreeItems.ClickedNodeVisitor: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIItems.WindowItems.DisplayState: type is a value type.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIItems.WindowItems.WPFWindow: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.UIItems.WindowsFramework: type is a value type.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for TestStack.White.WindowsAPI.Input: type is a value type.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate stub for <>f__AnonymousType0`2: type is sealed.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Bricks.DelegateInvoker: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Bricks.IInterceptContext: type is an interface.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Bricks.DynamicProxyInterceptors+<>c__DisplayClass2: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Bricks.DynamicProxyInterceptors+<>c__DisplayClass6: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Configuration.WhiteDefaultLogger: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Drawing.ScreenRectangle: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Drawing.FrameRectangle: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.InputDevices.SystemMetric: type is an enum.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Interceptors.IWhiteInterceptor: type is an interface.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.AutomationElementSearch.IDescendantFinder: type is an interface.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.CacheMode: type is an enum.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Configuration.ICoreConfiguration: type is an interface.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Configuration.CoreAppXmlConfiguration+<>c__DisplayClass1: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Configuration.IWaitHook: type is an interface.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Configuration.UIItemIdConfiguration: type is an interface.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.Actions.ActionListener: type is an interface.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.IUIItem: type is an interface.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.UIItem+<>c__DisplayClass2: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.IUIItemContainer: type is an interface.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.Scrolling.VerticalSpanProvider: type is an interface.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.UIItemContainer+<>c__DisplayClass8: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.UIItemContainer+<>c__DisplayClassb: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Factory.ChildWindowFactory+<>c__DisplayClass1: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Factory.ChildWindowFactory+<>c__DisplayClass4: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Factory.ChildWindowFactory+<>c__DisplayClass7: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Factory.UIItemFactory: type is an interface.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Factory.PrimaryUIItemFactory+<>c__DisplayClass2: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Factory.SpecializedWindowFactory: type is an interface.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Factory.TableCellFactory+<>c__DisplayClass1: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Factory.WindowFactory+<>c__DisplayClass12: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Factory.WindowFactory+<>c__DisplayClass15: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Factory.WindowFactory+<>c__DisplayClass18: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Factory.WindowFactory+<>c__DisplayClass1b: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Factory.WindowFactory+<>c__DisplayClass1e: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Factory.WindowFactory+<>c__DisplayClass4: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Factory.WindowFactory+<>c__DisplayClass9: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Factory.WindowFactory+<>c__DisplayClassc: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Factory.WindowFactory+<>c__DisplayClassf: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.InputDevices.IKeyboard: type is an interface.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.InputDevices.IMouse: type is an interface.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.InputDevices.MouseCursor+IDC_STANDARD_CURSORS: type is an enum.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.InputDevices.MouseIcon: type is an enum.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Mappings.ControlDictionaryItems+<>c__DisplayClass1: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Mappings.ControlDictionaryItems+<>c__DisplayClass5: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.ScreenMap.WindowItemsMap+<>c__DisplayClass2: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.ScreenMap.WindowItemsMap+<>c__DisplayClass5: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.SystemExtensions.TypeExtensions+<>c__DisplayClass3: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIA.AutomationPatterns+<>c__DisplayClass1: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.Custom.CustomUIItemType: type is an enum.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.Finders.OrSearchCondition+<>c__DisplayClass1: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.Finders.OrSearchCondition+<>c__DisplayClass8: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.Finders.SearchConditionFactory+<>c__DisplayClass11: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.Finders.SearchConditionFactory+<>c__DisplayClassb: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.Finders.SearchConditionFactory+<>c__DisplayClasse: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.Finders.SimpleSearchCondition+PropertyValue: type is a delegate.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.ListBoxItems.ListItemContainer: type is an interface.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.ListBoxItems.ComboBox+<>c__DisplayClass1: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.PropertyGridItems.PropertyGrid+<>c__DisplayClass1: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.PropertyGridItems.PropertyGridCategory+<>c__DisplayClass1: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.Scrolling.ScrollBarButtonAutomationIds: type is an interface.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.Scrolling.DefaultScrollBarButtonAutomationIds: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.Scrolling.SilverlightHScrollBarButtonAutomationIds: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.Scrolling.SilverlightVScrollBarButtonAutomationIds: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.Scrolling.IScrollBar: type is an interface.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.Scrolling.IHScrollBar: type is an interface.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.Scrolling.IScrollBars: type is an interface.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.Scrolling.IVScrollBar: type is an interface.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.DateUnit: type is an enum.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.DateFormat+<>c__DisplayClass1`1: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.TableItems.TableVerticalScrollOffset: type is an interface.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.WindowItems.Window+<>c__DisplayClass9: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.WindowItems.Window+<>c__DisplayClassc: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.WindowItems.Window+WaitTillDelegate: type is a delegate.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.Scrolling.ScrollBars+FindElement: type is a delegate.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.Scrollable: type is an interface.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.TextBox+<>c__DisplayClass1: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Utility.MethodNameResolver: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Utility.PropertyResolver: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.WindowsAPI.KeyboardInput+KeyUpDown: type is an enum.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.WindowsAPI.KeyboardInput+SpecialKeys: type is an enum.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Mappings.ControlDictionary+<>c__DisplayClass12: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Mappings.ControlDictionary+<>c__DisplayClass15: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Mappings.ControlDictionary+<>c__DisplayClass18: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Mappings.ControlDictionary+<>c__DisplayClass1b: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Mappings.ControlDictionary+<>c__DisplayClassf: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Recording.SafeAutomationEventHandler+Create: type is a delegate.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.Recording.UIItemEventListener: type is an interface.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItemEvents.EventOption: type is an interface.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItemEvents.ListViewEvent+<>c__DisplayClass2: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.Actions.VoidDelegate: type is a delegate.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.Actions.ActionType: type is an enum.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.Container.CachedContainerItemFactory: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.CheckBox+<>c__DisplayClass1: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.Custom.CustomControlTypeMapping+<>c__DisplayClass3: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.Finders.SearchConditions+<>c__DisplayClass1: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.Finders.SearchConditions+<>c__DisplayClass4: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.Finders.SearchCriteria+<>c__DisplayClass1: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.Finders.SearchCriteria+<>c__DisplayClass6: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.Finders.SearchCriteria+<>c__DisplayClassa: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.ListBoxItems.ListBox+<>c__DisplayClass1: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.ListBoxItems.ListItem+<>c__DisplayClass1: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.ListBoxItems.ListItems+<>c__DisplayClass3: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.ListViewItems.SuggestionList: type is an interface.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.ListView+<>c__DisplayClass4: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.ListViewCells+<>c__DisplayClass1: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.ListViewItems.ListViewColumns+<>c__DisplayClass1: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.ListViewItems.ListViewHeader+<>c__DisplayClass1: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.ListViewItems.SuggestionListView+<>c__DisplayClass4: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.ListViewRows+<>c__DisplayClass1: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.MenuItems.Menus+<>c__DisplayClass1: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.MenuItems.Menus+<>c__DisplayClass3: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.MenuItems.Menus+<>c__DisplayClass6: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.Container.NonCachedContainerItemFactory: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.RadioButton+<>c__DisplayClass1: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.Scrolling.ScreenItem+<>c__DisplayClass1: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.Scrolling.ScrollerFactory: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.WindowItems.WinFormWindow: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.SplashWindow: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.TabItems.ITabPage: type is an interface.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.TabItems.Tab+<>c__DisplayClass3: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.TabItems.Tab+<>c__DisplayClass6: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.TableItems.TableColumns+<>c__DisplayClass3: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.TableItems.TableRows+<>c__DisplayClass1: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.TableItems.TableRows+<>c__DisplayClass4: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.TooltipSafeMouse: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.TreeItems.TreeNodeVisitor: type is an interface.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.TreeItems.ClickedNodeVisitor: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.TreeItems.Tree+<>c__DisplayClass2: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.TreeItems.TreeNodes+<>c__DisplayClass1: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.WindowItems.DisplayState: type is an enum.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.WindowItems.WPFWindow: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.WindowsFramework: type is an enum.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.UIItems.WindowStripControls.MenuContainer: type is an interface.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.WindowControlVisitor: type is an interface.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.WindowsAPI.NativeWindow+<>c__DisplayClass2: type is not supported because of internal limitations.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.WindowsAPI.NativeWindow+EnumWindowsProc: type is a delegate.
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for TestStack.White.WindowsAPI.DisplayedItem+Rect: type is not visible to exported or assembly(TestStack.White.Fakes).
+D:\VSKGit\AutoTest.MUV\MUV\Fakes\TestStack.White.fakes : warning : Cannot generate shim for <>f__AnonymousType0`2: type is not supported because of internal limitations.

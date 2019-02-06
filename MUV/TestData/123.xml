@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfOPOData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<OPOData>
+		<RegistryResult>
+			<RegistryLine>
+				<NumDog>1110100866777</NumDog>
+				<DateDog>09.03.2017</DateDog>
+				<Division>Санкт-Петербургский филиал</Division>
+				<NSICode>Ю_7804040302.00000</NSICode>
+				<Strah>Открытое акционерное общество "Машиностроительный завод "Арсенал"</Strah>
+				<SaleChannel>Прямые продажи корп. клиентам</SaleChannel>
+				<VidSatrah>@</VidSatrah>
+				<StrSumm>10000000.00</StrSumm>
+				<PlatehzDoc>207076</PlatehzDoc>
+				<Vznos>1733.75</Vznos>
+				<DataVznosa>10.03.2017</DataVznosa>
+				<KV>10.00</KV>
+				<MaxKV>10.00</MaxKV>
+				<Stavka>2.00</Stavka>
+				<Summ>34.68</Summ>
+			</RegistryLine>		
+			<RegistryLine>
+				<NumDog>1110100866467</NumDog>
+				<DateDog>09.03.2017</DateDog>
+				<Division>Санкт-Петербургский филиал</Division>
+				<NSICode>Ю_7804040302.00000</NSICode>
+				<Strah>Открытое акционерное общество "Машиностроительный завод "Арсенал"</Strah>
+				<SaleChannel>Прямые продажи корп. клиентам</SaleChannel>
+				<VidSatrah>@</VidSatrah>
+				<StrSumm>10000000.00</StrSumm>
+				<PlatehzDoc>207076</PlatehzDoc>
+				<Vznos>1551.25</Vznos>
+				<DataVznosa>10.03.2017</DataVznosa>
+				<KV>10.00</KV>
+				<MaxKV>10.00</MaxKV>
+				<Stavka>2.00</Stavka>
+				<Summ>31.03</Summ>
+			</RegistryLine>
+			<RegistryLine>
+				<NumDog>1110101800706</NumDog>
+				<DateDog>25.01.2017</DateDog>
+				<Division>Санкт-Петербургский филиал</Division>
+				<NSICode>Ю_4719002357.00000</NSICode>
+				<Strah>Открытое акционерное общество "Бумажная фабрика "Коммунар"</Strah>
+				<SaleChannel>Прямые продажи корп. клиентам</SaleChannel>
+				<VidSatrah>@</VidSatrah>
+				<StrSumm>25000000.00</StrSumm>
+				<PlatehzDoc>621</PlatehzDoc>
+				<Vznos>2750.00</Vznos>
+				<DataVznosa>25.01.2017</DataVznosa>
+				<KV>10.00</KV>
+				<MaxKV>10.00</MaxKV>
+				<Stavka>4.00</Stavka>
+				<Summ>110.00</Summ>
+			</RegistryLine>			
+		</RegistryResult>
+	</OPOData>
+</ArrayOfOPOData>
